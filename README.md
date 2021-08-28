@@ -3,7 +3,7 @@
 
 This report tests whether Fandango 2015 movie ratings are bias.
 
-This guided project ties in with an article (here) titled, 'Be Suspicious Of Online Movie Ratings Especially Fandango’s', written by Walt Kickey in 2015. You can access the data used for the article here. Walt explains that he was prompted by a colleague to investigate the validity of Fandango's movie ratings. Walt gathered movie rating data on movies released in 2015 up to August 2015 from the following movie rating sources:
+This guided project ties in with an article ([here](https://fivethirtyeight.com/features/fandango-movies-ratings/ 'here')) titled, 'Be Suspicious Of Online Movie Ratings Especially Fandango’s', written by Walt Kickey in 2015. You can access the data used for the article [here](https://github.com/fivethirtyeight/data/tree/master/fandango 'here'). Walt explains that he was prompted by a colleague to investigate the validity of Fandango's movie ratings. Walt gathered movie rating data on movies released in 2015 up to August 2015 from the following movie rating sources:
 
 - Rotten Tomatoes Critics
 - Rotten Tomatoes Users
