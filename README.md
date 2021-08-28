@@ -1,5 +1,5 @@
 # Fandango-2015-Movie-Ratings---Legit-or-Bias-
-
+[Click here to see the Jupyter Notebook](Fandango Movie Ratings II.ipynb)
 
 This report tests whether Fandango 2015 movie ratings are bias.
 
@@ -31,3 +31,5 @@ I did this by comparing the movie rating results from (2015) and from (2016) aft
 **In the analysis process, I used a "pre-test post-test control group" method. I was able to obtain a legitimate "control group"!**
 
 ## FIND OUT THE ANSWER!
+
+[Click here to see the Jupyter Notebook](Fandango Movie Ratings II.pdf) (if you prefer to download the pdf file).
