@@ -27,7 +27,7 @@ The objective of this project is to determine whether Fandango corrected their m
 
 I did this by comparing the movie rating results from (2015) and from (2016) after their response; "We plan to fix the rounding algorithm on our website as soon as possible".
 
-**In the analysis process, I used a "pre-test post-test control group" method. I was able to obtain a legitimate "control group"!**
+**In the analysis process, I used a "pre-test post-test control group" method. I was able to obtain a legitimate "control group"! I took a different approach than what was suggested in the guidelines.**
 
 ## FIND OUT THE ANSWER!
 
