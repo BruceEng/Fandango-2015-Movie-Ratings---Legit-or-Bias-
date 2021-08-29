@@ -31,4 +31,4 @@ I did this by comparing the movie rating results from (2015) and from (2016) aft
 
 ## FIND OUT THE ANSWER!
 
-[Click here to see the pdf File](Fandango+Movie+Ratings+II.pdf) (if you prefer to download the pdf file).
+[Click here to see the pdf File](Fandango+Movie+Ratings+II.pdf) (if you would like to download the pdf file).
